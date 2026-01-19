@@ -22,3 +22,7 @@ Follow these steps to run the project locally on your machine:
  **Clone repository:**
    ```bash
    git clone [https://github.com/elsamaria006/link-camp-task-by-elsa-maria.git](https://github.com/elsamaria006/link-camp-task-by-elsa-maria.git)
+**Clone repository:**
+```bash
+git clone [https://github.com/elsamaria006/link-camp-task-by-elsa-maria.git](https://github.com/elsamaria006/link-camp-task-by-elsa-maria.git)
+cd link-camp-task-by-elsa-maria
